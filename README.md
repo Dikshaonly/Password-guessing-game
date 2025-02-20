@@ -25,7 +25,7 @@ This repository contains a simple password guessing game implemented in a Jupyte
 3. Open the Jupyter Notebook.
 
     ```bash
-    jupyter notebook password_guessing_app.ipynb
+    jupyter main.ipynb
     ```
 
 4. Run the cells in the notebook to start the password guessing application.
