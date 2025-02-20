@@ -12,7 +12,7 @@ This repository contains a simple password guessing game implemented in a Jupyte
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/password-guessing-app.git
+    git clone https://github.com/Dikshaonly/password-guessing-game.git
     cd password-guessing-app
     ```
 
