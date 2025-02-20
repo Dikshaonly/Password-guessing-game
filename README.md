@@ -5,7 +5,7 @@ This repository contains a simple password guessing game implemented in a Jupyte
 ## Files
 
 - `common_passwords.csv`: A CSV file containing a list of the most commonly used passwords.
-- `password_guessing_app.ipynb`: A Jupyter Notebook that implements the password guessing application.
+- `password_guessing_game.ipynb`: A Jupyter Notebook that implements the password guessing application.
 
 ## How to Use
 
