@@ -13,7 +13,7 @@ This repository contains a simple password guessing game implemented in a Jupyte
 
     ```bash
     git clone https://github.com/Dikshaonly/password-guessing-game.git
-    cd password-guessing-app
+    cd password-guessing-game
     ```
 
 2. Ensure you have Jupyter installed. If not, install it using pip.
