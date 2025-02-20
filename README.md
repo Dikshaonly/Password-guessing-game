@@ -1,6 +1,6 @@
-# Password Guessing App
+# Password Guessing Game
 
-This repository contains a simple password guessing application implemented in a Jupyter Notebook. The application uses a dataset of the most commonly used passwords stored in a CSV file. The user has multiple attempts to guess one of these common passwords.
+This repository contains a simple password guessing game implemented in a Jupyter Notebook. The application uses a dataset of the most commonly used passwords stored in a CSV file. The user has multiple attempts to guess one of these common passwords.
 
 ## Files
 
@@ -39,10 +39,14 @@ The `common_passwords.csv` file contains a list of the most commonly used passwo
 Here's an example of what the application looks like when running:
 
 ```
-Welcome to the Password Guessing App!
-You have 5 attempts to guess a common password.
-Enter your password guess: 123456
-Congratulations! You've guessed a common password.
+Welcome to the Password Guessing Game!
+You have 5 attempts to guess a commonly used password.
+Incorrect password. You have 4 attempts left.
+Incorrect password. You have 3 attempts left.
+Incorrect password. You have 2 attempts left.
+Incorrect password. You have 1 attempts left.
+Incorrect password. You have 0 attempts left.
+Sorry, You've run out of attempts.
 ```
 
 
